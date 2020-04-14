@@ -1,5 +1,6 @@
 
 
+
 # What this directory is about
 This directory includes data and scrpits that are required to analyse the experiments results. 
 
@@ -25,4 +26,7 @@ To run an experiment in EvoSuite, the two algorithms can be run using the follow
 ## Source code:
 
 The implementation of the fitness landscape analysis in EvoSuite can be found [here](https://github.com/nasser-albunian/EvoSuite-FLA.git).
+
+## Analysis:
+To analyse the data resulting from the experiment, you simply need to run the *run* function in the Analysis R script. 
 

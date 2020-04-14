@@ -13,7 +13,7 @@ library(grid)
 library(gridExtra)
 library(GGally)
 library(plyr)
-setwd("~/GECCO_experiment/")
+setwd("~/")
 
 run <- function(){
   cat("* Extracting classes that run (out of 346 classes)\n")
